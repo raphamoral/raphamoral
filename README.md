@@ -7,4 +7,3 @@
 
 -->
 Hi , this is my github profile. I'm justing editing...
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raphamoral)](https://wakatime.com/@raphamoral)
