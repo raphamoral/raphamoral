@@ -7,4 +7,4 @@
 
 -->
 Hi , this is my github profile. I'm justing editing...
-<!--START_SECTION:waka-->TIME_RANGE <!--END_SECTION:waka-->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)](https://wakatime.com/@raphamoral)
